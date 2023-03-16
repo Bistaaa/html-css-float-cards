@@ -38,6 +38,7 @@ header > p{
     float: left;
     width: calc((100% - 60px)/3);
     background-color: rgba(15,14,23,255);
+    box-shadow: 2px 2px 5px black;
 }
 
 .col:nth-child(2){
@@ -54,7 +55,7 @@ header > p{
 }
 
 .info{
-    line-height: 30px;
+    line-height: 29px;
     float: left;
     margin-left: 15px;
 }
