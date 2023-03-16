@@ -1,0 +1,52 @@
+/* General */
+
+.container{
+    border: 5px solid black;
+    margin: 30px 15%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  
+}
+
+
+
+/* Header */
+
+h1{
+    font-family: 'Cooper Black', sans-serif;
+    color: rgba(229,49,112,255);
+    text-align: center;
+    font-weight: 500;
+}
+
+header > p{
+    text-align: center;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
